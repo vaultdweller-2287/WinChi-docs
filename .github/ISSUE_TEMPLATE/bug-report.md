@@ -1,6 +1,6 @@
 ---
 name: 🐛Bug Report🐛
-about: Help us improve Chi!
+about: Help us improve WinChi!
 title: ''
 labels: 'bug'
 assignees: ''
