@@ -1,2 +1,2 @@
-llama-cpp-python
-pygobject
+pyqt6>=6.5
+ctransformers>=2.0.0
