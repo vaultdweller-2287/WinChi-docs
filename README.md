@@ -4,4 +4,4 @@
 
 # WinChi
 
-WinChi is an open-source local AI chatbot fork of Chi for Windows. We are currently under development, so please refer to ```CONTRIBUTING.md``` for details on running Chi.
+WinChi is an open-source local AI chatbot fork of Chi for Windows. We are currently under serious development, so please refer to ```CONTRIBUTING.md``` for details on running Chi.
